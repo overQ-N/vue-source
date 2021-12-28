@@ -1,19 +1,5 @@
-# vuex-source
+# vue-source
 
-## Project setup
-```
-npm install
-```
+## vue2.x 源码相关
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+vuex 实现 ✔
